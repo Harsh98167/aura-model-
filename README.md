@@ -1,6 +1,6 @@
 # aura-model-
 we have an team project for hackarthon we create a web for aura model using ml 
-AURA PHOTO RATING (offline app)
+AURA PHOTO RATING (onine app)
 
 1. Put rating_model_single.onnx (from Colab: Aura project/runs/fold1) in the "model" folder.
    If you leave it in Downloads or in your project folder, the launcher will try to find it.

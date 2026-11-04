@@ -1,6 +1,6 @@
 AURA – AI-Powered Photo Rating System
 
-This is an ML-powered application that estimates the average human rating of a frontal-face photograph using a trained machine learning model.
+This is an  AI ML-powered application that estimates the average human rating of a frontal-face photograph using a trained machine learning model.
 
 ## Setup Instructions
 

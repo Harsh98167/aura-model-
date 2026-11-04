@@ -7,20 +7,7 @@ This is an  AI ML-powered application that estimates the average human rating of
 1. Download or obtain the `rating_model_single.onnx` file from `Aura project/runs/fold1` in Google Colab.
 2. Place the model file inside the project's `model` folder.
 3. If you cannot find the model file, the launcher will also attempt to locate it in your Downloads folder or main project directory.
-
-## How to Run the Application
-
-**For macOS:**
-1. Double-click `Start Aura (Mac).command`.
-2. Your default browser will open automatically.
-3. If macOS blocks the application, right-click the file, select **Open**, and confirm by selecting **Open** again.
-4. Alternatively, open Terminal, type `bash` followed by a space, drag the `.command` file into Terminal, and press Enter.
-
-**For Windows:**
-1. Double-click `Start Aura (Windows).bat`.
-2. Make sure Python 3 is installed on your computer.
-3. Wait until the application displays **Ready**.
-
+4. 
 ## How to Use AURA
 
 1. Wait for the application to display **Ready**.
